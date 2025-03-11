@@ -5,7 +5,8 @@ int main()
 {
      int a;
      int b;
-     
+    
+     printf("Welcome to the area calculator! \n");
      printf("Please enter the first lenght: ");
      scanf("%d", &a);
 
