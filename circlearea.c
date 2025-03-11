@@ -4,7 +4,7 @@ int main ()
 
 {
      int r;
-     double pi = 3.14589;
+     double pi = 3.14159265;
      
      printf("Please enter your radius: ");
      scanf("%d", &r);
